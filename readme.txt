@@ -1,2 +1,2 @@
 Lets try to create a conflict
-Hello Leo
+Hello Leo - "Leo's addition, line 2 conflic"
